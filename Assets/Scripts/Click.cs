@@ -10,7 +10,7 @@ public class Click : MonoBehaviour {
 	int count = 1;
 	// Use this for initialization
 	void Start () {
-		
+
 	}
 	
 	// Update is called once per frame
